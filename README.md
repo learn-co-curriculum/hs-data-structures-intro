@@ -2,7 +2,7 @@
 tags: intro, data structures, kids
 type: intro
 ---
-### Unit Goals
+### Students Will Be Able To...
 * Explain **what arrays and hashes are** and why they're used
 * Use and **manipulate Ruby’s core data structures**
 
